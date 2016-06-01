@@ -177,6 +177,12 @@ If you've installed it locally, then run:
 ./node_modules/.bin/electron .
 ```
 
+#### Windows
+
+```bash
+.\node_modules\.bin\electron .
+```
+
 ### Manually Downloaded Electron Binary
 
 If you downloaded Electron manually, you can also use the included
